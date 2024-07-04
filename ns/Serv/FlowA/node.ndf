@@ -98,5 +98,5 @@
   <null name="originURI"/>
   <value name="modifiable">true</value>
   <value name="is_public">false</value>
-  <value name="is_visible">True</value>
+  <value name="is_visible">False</value>
 </Values>
